@@ -1,0 +1,36 @@
+.btn-success {
+    margin: 0 2px;
+}
+
+.btn-success {
+    width: 100px;
+}
+
+.btn-danger {
+    width: 100px;
+}
+
+.btn-warning {
+    background-color: red;
+}
+
+.btn-ingredient {
+    width: 130px;
+    margin-top: 10px;
+    background-color: green;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+    border: green 1px solid;
+    margin-bottom: 30px;
+}
+
+.m-2 {
+    margin-top: 10px;
+}
+
+input.ng-invalid.ng-touched,
+textarea.ng-invalid.ng-touched {
+    border: 2px solid red;
+    box-shadow: 7px 7px 10px red;
+}
